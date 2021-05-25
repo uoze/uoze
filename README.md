@@ -2,6 +2,8 @@
 
 ### Check out my [LinkedIn](https://www.linkedin.com/in/ezou/)!
 
+### Visit my [portfolio site](https://zoulogy.vercel.app) where I detail my journey to coding and my projects' development!
+###
 💻 Graduate of Fullstack Academy's Web Development Fellowship, please ask me anything about my projects (pinned below)!
 
 🦐 My background is in Zoology, so I am no stranger to tackling novel, specialized subjects and making sense of them. (My favorite animal is the red panda, but there's no emoji for it... and I have a red cherry shrimp planted aquarium!)
